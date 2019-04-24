@@ -73,7 +73,7 @@ def on_message(client, userdata, msg):
     if x == 'F':
         forward(1)
     if x == 'B':
-        backward(3)
+        backward(1)
     if x == 'L':
         left(1)
     if x == 'R':
